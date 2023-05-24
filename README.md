@@ -32,7 +32,7 @@ After processing is finished, put the processed dataset into `dataset/` folder o
 
 ## AMOS+BCV+WORD -
 ### Dataset Pre-Process 
-1. Download the dataset according to the dataset link and arrange the dataset according to the `dataset/dataset_list/PAOT.txt`.  
+1. Download the dataset according to the dataset link and arrange the dataset according to the `PAOT.txt`.  
 2. Modify the ORGAN_DATASET_DIR value in label_transfer.py (line 51) and NUM_WORKER (line 53)  
 3. `python -W ignore label_transfer.py`
 
