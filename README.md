@@ -6,7 +6,7 @@ For each Dataset requirements file is present in sub-folder.
 ## BraTS_2021 -
 1. Store the data in sub folder with following name - `/home/whr/Data/BraTS/brats21/RSNA_ASNR_MICCAI_BraTS2021_TrainingData/`
 2. Install Requirements
-3. Check configs.py for setup configurations and argument options, defaults are present in the file as well. Run train_brats2021.py
+3. Check configs.py for setup configurations and argument options, defaults are present in the file as well. Run Brats_2021.py
 
 ## M&M -
 1. Install Requirements
